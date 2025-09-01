@@ -43,7 +43,7 @@ done
 
 # Variables
 RULES_URL="https://github.com/Abhims898/Project-1---Network-Intrusion-Detection-System-NIDS-Rule-Creation-and-Testing-Labunder-progress/blob/main/local.rules"
-YAML_URL="https://github.com/<your_user>/suricata-config/raw/main/suricata.yaml"
+YAML_URL="https://github.com/Abhims898/Project-1---Network-Intrusion-Detection-System-NIDS-Rule-Creation-and-Testing-Labunder-progress/blob/main/suricata.yaml"
 RULES_DIR="/etc/suricata/rules"
 CONFIG_FILE="/etc/suricata/suricata.yaml"
 BACKUP_DIR="/etc/suricata/backup_$(date +%F_%T)"
